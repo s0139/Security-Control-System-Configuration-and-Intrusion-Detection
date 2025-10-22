@@ -1,2 +1,3 @@
 # Security-Control-System-Configuration-and-Intrusion-Detection
-보안 관제 시스템 구성 및  침입 탐지 Team Project
+Notion
+https://www.notion.so/294ec80843ea80ac9895ffa53ac83d53?source=copy_link
